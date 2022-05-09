@@ -11,5 +11,7 @@ public static void main(String[] args) {
 	credito.cliente = c1;
 	credito.data_val = "2/2025";
 	credito.status = TipoCartaoEnum.CREDITO;
+	
+	
 }	
 }
