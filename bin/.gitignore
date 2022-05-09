@@ -10,3 +10,6 @@
 /ClienteEnum.class
 /StatusClienteEnum.class
 /TipoCartaoEnum.class
+/AgenciaBanco.class
+/ContaDoBanco.class
+/TesteBanco.class
